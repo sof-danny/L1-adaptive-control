@@ -1,5 +1,5 @@
 # L1-adaptive-control
-L1 adaptive control of a tractor cart system using Matlab 
+L1 adaptive control of a tractor cart system using Matlab. A group project by Samuel Folorunsho , William Drennan and Justin Yurkanin
 
 The L1 adaptive control is one of the interesting control methods that might replace MRAC at some point. The analysis in this experiemnent shows that L1 is more robust and adapt quickly compared to MRAC. 
 
